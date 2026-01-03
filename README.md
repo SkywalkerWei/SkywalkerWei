@@ -10,3 +10,4 @@
 - ⭐ Blender / Photoshop / Lightroom / Latex
 - 🤔 Learning: Golang / 仓颉 / OpenHarmony
 - 🧐 SDU EE Undergraduate
+- 🧐 HUAWEI-Hangzhou
