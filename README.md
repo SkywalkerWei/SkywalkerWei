@@ -7,7 +7,7 @@
 
 - ⭐ JavaScript / Java / SpringBoot
 - ⭐ TypeScript / CSS / HTML5 / React / ArkTS
-- ⭐ Python / C++ / C / C# / lua / SQL
+- ⭐ Python / C++ / C / C# / Lua / SQL
 - ⭐ Blender / Photoshop / Lightroom / Latex
 - 🤔 Learning: Golang / 仓颉 / OpenHarmony
 - 🧐 SDU EE Undergraduate
